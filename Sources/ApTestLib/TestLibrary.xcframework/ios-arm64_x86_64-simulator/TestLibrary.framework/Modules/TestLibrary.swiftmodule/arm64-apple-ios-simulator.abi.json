@@ -1,0 +1,79 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TestLibrary",
+    "printedName": "TestLibrary",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "TestLibrary",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "GoogleMobileAds",
+        "printedName": "GoogleMobileAds",
+        "declKind": "Import",
+        "moduleName": "TestLibrary"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "TestLibrary",
+        "printedName": "TestLibrary",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "printStatement",
+            "printedName": "printStatement()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11TestLibraryAAC14printStatementyyF",
+            "mangledName": "$s11TestLibraryAAC14printStatementyyF",
+            "moduleName": "TestLibrary",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:11TestLibraryAAC",
+        "mangledName": "$s11TestLibraryAAC",
+        "moduleName": "TestLibrary",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": []
+}

@@ -21,7 +21,7 @@ let package = Package(
             checksum: "a8168b57232978ba2ecb9da13eb472f50f5e18466db372fc561fc388b3704ac5"
         ),
         .target(
-          name: "Sources/ApTestLib",
+          name: "ApTestLibrary",
           dependencies: [
                 .product(name: "GoogleMobileAds", package: "swift-package-manager-google-mobile-ads")
           ],

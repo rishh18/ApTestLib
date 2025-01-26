@@ -10,7 +10,7 @@ let package = Package(
     products: [
         .library(
             name: "ApTestLibrary",
-            targets: ["Sources/ApTestLib"]
+            targets: ["ApTestLibrary"]
         ),
     ],
     dependencies: [.package(url: "https://github.com/googleads/swift-package-manager-google-mobile-ads.git", from: "11.0.0")],
@@ -21,7 +21,7 @@ let package = Package(
             checksum: "a8168b57232978ba2ecb9da13eb472f50f5e18466db372fc561fc388b3704ac5"
         ),
         .target(
-          name: "ApTestLibrary",
+          name: "ApTestLib",
           dependencies: [
                 .product(name: "GoogleMobileAds", package: "swift-package-manager-google-mobile-ads")
           ],

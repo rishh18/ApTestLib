@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |spec|
 
-  spec.name         = "TestLibrary"
+  spec.name         = "ApTestLibrary"
   spec.version      = "1.0.1"
   spec.summary      = "This is just a library to test the logs."
   spec.description  = "This is just a library to test the logs. Whether there is any duplicity message in the logs"

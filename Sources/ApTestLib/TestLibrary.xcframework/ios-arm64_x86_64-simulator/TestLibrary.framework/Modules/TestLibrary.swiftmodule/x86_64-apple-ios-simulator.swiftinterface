@@ -8,7 +8,8 @@ import Swift
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
-@_hasMissingDesignatedInitializers public class TestClass {
+@objc @_inheritsConvenienceInitializers public class TestClass : ObjectiveC.NSObject {
   public static func printStatement()
+  @objc override dynamic public init()
   @objc deinit
 }

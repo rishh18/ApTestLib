@@ -7,7 +7,7 @@ import Swift
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
-@_hasMissingDesignatedInitializers public class TestLibrary {
-  public func printStatement()
+@_hasMissingDesignatedInitializers public class TestClass {
+  public static func printStatement()
   @objc deinit
 }

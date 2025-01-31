@@ -23,8 +23,8 @@
       },
       {
         "kind": "TypeDecl",
-        "name": "TestLibrary",
-        "printedName": "TestLibrary",
+        "name": "TestClass",
+        "printedName": "TestClass",
         "children": [
           {
             "kind": "Function",
@@ -38,18 +38,20 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:11TestLibraryAAC14printStatementyyF",
-            "mangledName": "$s11TestLibraryAAC14printStatementyyF",
+            "usr": "s:11TestLibrary0A5ClassC14printStatementyyFZ",
+            "mangledName": "$s11TestLibrary0A5ClassC14printStatementyyFZ",
             "moduleName": "TestLibrary",
+            "static": true,
             "declAttributes": [
+              "Final",
               "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
           }
         ],
         "declKind": "Class",
-        "usr": "s:11TestLibraryAAC",
-        "mangledName": "$s11TestLibraryAAC",
+        "usr": "s:11TestLibrary0A5ClassC",
+        "mangledName": "$s11TestLibrary0A5ClassC",
         "moduleName": "TestLibrary",
         "declAttributes": [
           "AccessControl"

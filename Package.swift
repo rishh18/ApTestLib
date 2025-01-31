@@ -17,8 +17,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "TestLibrary",
-            url: "https://github.com/rishh18/ApTestLib/releases/download/1.0.2/TestLibrary.xcframework.zip",
-            checksum: "7f84f85253e455768c47249deee6b7b825fc7d58b1a2b53fa583d7a134b8f4da"
+            url: "https://github.com/rishh18/ApTestLib/releases/download/1.0.4/TestLibrary.xcframework.zip",
+            checksum: "c85cc6df41ac84bd349d1ac19c150588a0dfb13fb438d59e748a16c20bcf0096"
         ),
         .target(
           name: "ApTestLib",

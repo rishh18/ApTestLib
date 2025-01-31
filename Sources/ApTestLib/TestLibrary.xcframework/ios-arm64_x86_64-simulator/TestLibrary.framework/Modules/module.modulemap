@@ -1,0 +1,4 @@
+framework module TestLibrary {
+  header "TestLibrary-Swift.h"
+  requires objc
+}

@@ -4,14 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>GoogleMobileAdsResources.bundle/Info.plist</key>
-		<data>
-		yQai6b0qcqkcPr3nJQSAvfQrGnc=
-		</data>
-		<key>GoogleMobileAdsResources.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		VWCA3MeaiPMoOAS1uOteTSLX8js=
-		</data>
 		<key>Headers/TestLibrary-Swift.h</key>
 		<data>
 		hAp0VgQ8B1kt6P1UyZxP1C3TgvQ=
@@ -38,7 +30,7 @@
 		</data>
 		<key>Modules/TestLibrary.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Afdmmgogpd3pglEAXkXpYoXN9Wo=
+		GVZpeImAu+hiDAaVukyN7rybMHM=
 		</data>
 		<key>Modules/TestLibrary.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -58,37 +50,15 @@
 		</data>
 		<key>Modules/TestLibrary.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		yJxG0RzcBXGPvaAxt5Y3P6nsURY=
+		On+1HSahD4ZV+yf0lk0iGUHJ3Ok=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		/C/SnKtbZTY0hiuf01XX8bHASxA=
 		</data>
-		<key>UserMessagingPlatformResources.bundle/Info.plist</key>
-		<data>
-		7hLydR7rKaiaTCRit1j8ko+rkbc=
-		</data>
-		<key>UserMessagingPlatformResources.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		k9OFlDPBRWfteJ+bfG12WAoBuls=
-		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>GoogleMobileAdsResources.bundle/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			FPmtLsiJCpcAuXwAuopkKOxSgG3d3T4dkE1MfIl8Mts=
-			</data>
-		</dict>
-		<key>GoogleMobileAdsResources.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			afsRJYL8I/wGxjXJYdJio/e0tWVNKEeHSR3jAA2t+dI=
-			</data>
-		</dict>
 		<key>Headers/TestLibrary-Swift.h</key>
 		<dict>
 			<key>hash2</key>
@@ -128,7 +98,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FzseEvH5El+TU0IvczNe9aDEiIlno4xViBWisrXg/Us=
+			RycVLzXCSXHVdfMOQnnZTzJGXyS3qY1Lmw1/mUJfvF4=
 			</data>
 		</dict>
 		<key>Modules/TestLibrary.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -163,7 +133,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			S+IKf5BeV6TbWjZv0+JpOmm8WuRtrdO5SPYXufQsrpE=
+			zibiMKRQ4MBX0mZQ3i4F71yXxnBxA+RTlzpmwiR+lH0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -171,20 +141,6 @@
 			<key>hash2</key>
 			<data>
 			+HIyuUrwiwJSd9UXVzgbn9/TjY8TkhuTdHjGLidLcCg=
-			</data>
-		</dict>
-		<key>UserMessagingPlatformResources.bundle/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			C2lOBjgFjoVzZ3XqTK6cBh8n2iR0CHcb4vfb0uwPwtI=
-			</data>
-		</dict>
-		<key>UserMessagingPlatformResources.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			RbetuZ/NLZYqHIAPv8wTJbV6f6QWX0FhgjI7tf/pyQA=
 			</data>
 		</dict>
 	</dict>

@@ -12,6 +12,7 @@ Pod::Spec.new do |spec|
   spec.source       = { :git => "https://github.com/rishh18/ApTestLib.git", :tag => "1.0.7" }
   spec.swift_version = "5.0"
   spec.vendored_frameworks = "Sources/ApTestLib/TestLibrary.xcframework"
+  spec.dependency 'Google-Mobile-Ads-SDK'
   spec.static_framework = false
 
 end
